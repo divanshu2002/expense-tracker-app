@@ -18,7 +18,7 @@ export default function TransactionChart({ transactions }: Props) {
   );
 
 
-
+                                                                                                                                                                                                                                                                                                                               
 
   const total = transactions.reduce((acc, curr) => acc + curr.amount, 0);
 

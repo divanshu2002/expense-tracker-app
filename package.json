@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "firebase": "^11.6.0",
     "highcharts": "^12.2.0",
     "highcharts-react-official": "^3.2.1",
     "next": "15.2.5",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
