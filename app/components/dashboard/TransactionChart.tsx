@@ -1,6 +1,6 @@
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
-import { Transaction } from '../common/types/transaction'
+import { Transaction } from '../../common/typescript-type/transaction'
 
 
 type Props = {
